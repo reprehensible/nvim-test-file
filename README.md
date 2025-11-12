@@ -2,6 +2,8 @@
 
 A Neovim plugin for quickly switching between source files and their corresponding test files in existing split windows.
 
+Written entirely with/by Claude Code.
+
 ## Features
 
 - Toggle between source files and test files
